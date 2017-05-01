@@ -83,3 +83,35 @@ D3/D4 Kuota biasanya 2 Orang/Kampus
 
 **Pengusul**
 Muhammad Rubiyanto Permana
+
+## GOERS
+
+**Alamat:**
+PT Sanraya Adi Nattaya
+GOERS SPACE
+Jl. Kemang Raya No. 8A Jakarta  Selatan 12730
+Goers Bandung: Jl. Dago Asri No B 23, Dago, Coblong, Kota Bandung, Jawa Barat 40135
+
+**URL:** https://goersapp.com/careers/
+
+**No. Telp. Perusahaan:** +6281-1196-1996 / +6221-831-5427
+
+**Profil Singkat Perusahaan:**
+
+We are a daily going out app, that serves information of cool events and activities for Indonesian audiences. We also provide partners with event management platform to track and measure the success of event performance. Everything we provide are personalized to cater to both audiences and partners.
+
+**Contact Person**
+
+Nama : Ayu
+Jabatan : Customer Care Goers
+Email : hello@goersapp.com
+No. Hp : +628111961996
+
+**Surat Ditujukan**
+Ke perusahaan Via. hello@goersapp.com
+
+**Peserta KP/PKL**
+D3/D4
+
+**Pengusul**
+Eva Danti Rahmanita
