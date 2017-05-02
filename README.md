@@ -1,5 +1,16 @@
 # Repository PKL kelas D4-A 2014 JTK Polban
 
+## UrbanIndo
+
+**Alamat:** Jl. Karang Tinggal 14, Bandung - West Java, Indonesia 40162, Kota Bandung
+**URL:** https://www.urbanindo.com
+**No. Telp. Perusahaan:** +6222 2035 028 / +6222 4268 663
+**Profil Singkat Perusahaan:** Perusahaan ini adalah perusahaan teknologi yang bergerak di bidang properti (jual-beli properti).
+**CP:** 0812 2440 5627 (a.n. Mirsa, Divisi HR, email hr@urbanindo.com)
+**Divisi Terkait:** Permohonan KP/PKL bisa dikirimkan ke divisi HR UrbanIndo
+**Media Pengiriman Permohonan:** bisa lewat email ataupun surat (email: hr@urbanindo.com)
+**Menerima Prodi:** Perusahaan menerima D3 dan D4
+
 ## Ursabyte
 
 **Alamat:** Sarijadi Raya, 44, Bandung, Indonesia-40151
