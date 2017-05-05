@@ -155,7 +155,7 @@ Dengan moto 'A Helpful Company', kami percaya bahwa kami dapat menjadi partner d
 Nama : Yosef Sukianto
 Jabatan : HRD Manager
 Email : yosefsukianto@rekadia.co.id
-No. Hp : 08112030095
+No. Hp : +628112030095
 
 **Surat Ditujukan**
 Ke perusahaan Via. yosefsukianto@rekadia.co.id
