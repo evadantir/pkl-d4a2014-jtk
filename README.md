@@ -134,3 +134,34 @@ D3/D4
 
 **Pengusul**
 Eva Danti Rahmanita
+
+## PT Rekadia Solusi Teknologi
+
+**Alamat:**
+PT Rekadia Solusi Teknologi
+Jakarta : Grand Slipi Tower Lt.42 (Jl.Letjend S Parman 22-24)
+Bandung : Jl. Pasir Salam Selatan I no. 16A
+
+**URL:** http://rekadia.co.id/
+
+**No. Telp. Perusahaan:** (+62)21 30490220
+
+**Profil Singkat Perusahaan:**
+
+Dengan moto 'A Helpful Company', kami percaya bahwa kami dapat menjadi partner dalam mengembangkan perusahaan Anda.
+
+**Contact Person**
+
+Nama : Yosef Sukianto
+Jabatan : HRD Manager
+Email : yosefsukianto@rekadia.co.id
+No. Hp : 08112030095
+
+**Surat Ditujukan**
+Ke perusahaan Via. yosefsukianto@rekadia.co.id
+
+**Peserta KP/PKL**
+D3/D4
+
+**Pengusul**
+Muhammad Ganjar Imanudin
