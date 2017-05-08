@@ -165,3 +165,73 @@ D3/D4
 
 **Pengusul**
 Muhammad Ganjar Imanudin
+
+## Kazee
+**Alamat:**
+LPIK ITB | LEMBAGA PENGEMBANGAN INOVASI DAN KEWIRAUSAHAAN.
+Jl. Ganesa No. 15
+Bandung-Jawa Barat, BDO
+Indonesia 40132
+
+**URL:** https://www.kazee.id/
+
+**No. Telp. Perusahaan:**
+TEL: +62 22 2501006
+FAX: +62 22 2534163
+
+**Profil Singkat Perusahaan:**
+
+Kazee merupakan platform yang dikembangkan dengan tujuan untuk melakukan analisis berbagai media seperti media sosial, forum, media berita dan lainnya
+
+**Contact Person**
+
+Nama : I Made Ariya Sanjaya
+Jabatan : HRD
+Email : ariya@kazee.id
+No. Telp :
+Telp: +62 22 2501006
+Fax: +62 22 2534163
+
+**Surat Ditujukan**
+Ke perusahaan Via. ariya@kazee.id
+
+**Peserta KP/PKL**
+D3/D4
+
+**Pengusul**
+Muhammad Ganjar Imanudin
+Tria Yuda P
+
+## SOROT
+**Alamat:**
+LPIK ITB | LEMBAGA PENGEMBANGAN INOVASI DAN KEWIRAUSAHAAN.
+Jl. Ganesa No. 15
+Bandung-Jawa Barat, BDO
+Indonesia 40132
+
+**URL:** http://sorot.id/
+
+**No. Telp. Perusahaan:**
+TEL: +62 22 2501006
+FAX: +62 22 2534163
+
+**Profil Singkat Perusahaan:**
+
+SOROT is a user friendly reporting platform that give people media to report their opinion about any problem in environment around them by web or mobile application. This platform encourage people to be more aware about their environment such as cleanliness, security, or public facilities. Their opinion can be very useful as an input for government or other parties to improve the quality of environment. This platform can give a space for collaboraion between people and authorized party to a better smart city.
+
+**Contact Person**
+Nama : I Made Ariya Sanjaya
+Jabatan : HRD
+Email : ariya@kazee.id
+No. Telp :
+Telp: +62 22 2501006
+Fax: +62 22 2534163
+
+**Surat Ditujukan**
+Ke perusahaan Via. ariya@kazee.id
+
+**Peserta KP/PKL**
+D3/D4
+
+**Pengusul**
+Tria Yuda P
