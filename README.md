@@ -241,7 +241,7 @@ FAX: +62 22 2534163
 
 **Profil Singkat Perusahaan:**
 
-SOROT is a user friendly reporting platform that give people media to report their opinion about any problem in environment around them by web or mobile application. This platform encourage people to be more aware about their environment such as cleanliness, security, or public facilities. Their opinion can be very useful as an input for government or other parties to improve the quality of environment. This platform can give a space for collaboraion between people and authorized party to a better smart city.
+SOROT is a user friendly reporting platform that give people media to report their opinion about any problem in environment around them by web or mobile application. This platform encourage people to be more aware about their environment such as cleanliness, security, or public facilities. Their opinion can be very useful as an input for government or other parties to improve the quality of environment. This platform can give a space for collaboration between people and authorized party to a better smart city.
 
 **Contact Person**
 Nama : I Made Ariya Sanjaya
@@ -262,3 +262,47 @@ D3/D4
 
 **Pengusul**
 Tria Yuda P
+
+## 41Studio
+**Alamat:**
+Setra Mas Residence Ruko No. 5 - 6 Cimahi 40525, Indonesia
+
+**URL:** http://www.41studio.com/
+
+**No. Telp. Perusahaan:**
++62 22 8600 1718
+
++62 22 2066 0058
+
++62 819 3207 8901
+
+**Profil Singkat Perusahaan:**
+
+We specialize in Ruby on Rails, iOS and Android development.
+
+For over 10 years in Ruby on Rails Development by creating websites such as ERPs, CRMs, E-commerce, Social Networks etc and also Mobile Applications. We handle variety of clients which spread all over the world. Client's satisfaction is one of our achievements, build applications according to the needs and desires of the client is our target. We develop creative and innovative ideas from the clients, making it is not only becomes a big idea, but into something that can be enjoyed by users.
+
+We make a good working environment and become the beacon of IT solutions. Through our excellent and extraordinary team, communicative and fun. We are ready to help you to make all your ideas become reality.
+
+**Contact Person**
+
+Nama : Ulfah Dwi Rohmawati
+
+Jabatan : Administrative 41studio
+
+Email : ulfah@41studio.com
+
+No. Telp :
+
+Telp: +62 22 8600 1718
+
+HP: +62 857 2222 4095
+
+**Surat Ditujukan**
+Ke Mr Hendra Nicholas (CEO) via pengiriman surat ke Setra Mas Residence Ruko No. 5 - 6 Cimahi 40525, Indonesia
+
+**Peserta KP/PKL**
+D3/D4
+
+**Pengusul**
+Mutiara Citra Wordstary
