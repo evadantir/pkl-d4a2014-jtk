@@ -18,6 +18,7 @@
 
 **Menerima Prodi:** Perusahaan menerima D3 dan D4
 
+**Pengusul:**  Ifan Dhani Prasojo
 
 ## Ursabyte
 
