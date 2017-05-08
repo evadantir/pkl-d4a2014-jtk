@@ -35,8 +35,11 @@ We are utmost Creative Software House located in Bandung, Indonesia.
 **Contact Person**
 
 Nama : Fauzi Imam Baihaqi
+
 Jabatan : Senior Programmer
+
 Email : fauzi@ursabyte.com
+
 No. Hp : 085647006962
 
 **Surat Ditujukan**
@@ -63,8 +66,11 @@ Belant Persada adalah perusahaan IT Consultant yang didirikan pada tahun 2001. D
 **Contact Person**
 
 Nama : Arya Adhi
+
 Jabatan : Corporate Seervices Director
+
 Email : arya.adhi@belant.net
+
 No. Hp : 085861110900
 
 **Surat Ditujukan**
@@ -91,8 +97,11 @@ Rumah IT Bandung adalah sebuah perusahaan multi usaha, salah satunya web develop
 **Contact Person**
 
 Nama : M Taufic
+
 Jabatan : Project Manager
+
 Email : m.taufic@rumahitbdg.com
+
 No. Hp : 081322042234
 
 **Surat Ditujukan**
@@ -109,7 +118,9 @@ Muhammad Rubiyanto Permana
 **Alamat:**
 PT Sanraya Adi Nattaya
 GOERS SPACE
+
 Jl. Kemang Raya No. 8A Jakarta  Selatan 12730
+
 Goers Bandung: Jl. Dago Asri No B 23, Dago, Coblong, Kota Bandung, Jawa Barat 40135
 
 **URL:** https://goersapp.com/careers/
@@ -123,8 +134,11 @@ We are a daily going out app, that serves information of cool events and activit
 **Contact Person**
 
 Nama : Ayu
+
 Jabatan : Customer Care Goers
+
 Email : hello@goersapp.com
+
 No. Hp : +628111961996
 
 **Surat Ditujukan**
@@ -140,7 +154,9 @@ Eva Danti Rahmanita
 
 **Alamat:**
 PT Rekadia Solusi Teknologi
+
 Jakarta : Grand Slipi Tower Lt.42 (Jl.Letjend S Parman 22-24)
+
 Bandung : Jl. Pasir Salam Selatan I no. 16A
 
 **URL:** http://rekadia.co.id/
@@ -154,8 +170,11 @@ Dengan moto 'A Helpful Company', kami percaya bahwa kami dapat menjadi partner d
 **Contact Person**
 
 Nama : Yosef Sukianto
+
 Jabatan : HRD Manager
+
 Email : yosefsukianto@rekadia.co.id
+
 No. Hp : +628112030095
 
 **Surat Ditujukan**
@@ -187,9 +206,13 @@ Kazee merupakan platform yang dikembangkan dengan tujuan untuk melakukan analisi
 **Contact Person**
 
 Nama : I Made Ariya Sanjaya
+
 Jabatan : HRD
+
 Email : ariya@kazee.id
+
 No. Telp :
+
 Telp: +62 22 2501006
 Fax: +62 22 2534163
 
@@ -222,8 +245,11 @@ SOROT is a user friendly reporting platform that give people media to report the
 
 **Contact Person**
 Nama : I Made Ariya Sanjaya
+
 Jabatan : HRD
+
 Email : ariya@kazee.id
+
 No. Telp :
 Telp: +62 22 2501006
 Fax: +62 22 2534163
